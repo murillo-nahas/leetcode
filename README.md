@@ -4,5 +4,6 @@ In this repository, I will put my solutions for Leetcode challenges, following t
 All the solutions by now will be solved using Golang.
 
 ### Progress
-- [ ] Arrays & Hashing 
-  - [ ] Contains duplicate
+- [x] Arrays & Hashing 
+  - [x] [Contains duplicate](https://leetcode.com/problems/contains-duplicate/)
+  - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
